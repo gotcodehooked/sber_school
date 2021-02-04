@@ -1,0 +1,5 @@
+General-purpose CPUs, limited precision, sequence of steps, subsequent instructions,
+multiple data, to fetch the instruction, to classify the techniques, to behave less linearly, to
+execute simultaneously, series of control signals, instruction cycle, to perform arithmetic on
+vectors and matrices, instruction level parallelism, to operate on integers, trigonometry functions,
+to represent real numbers, quick access, to fetch an instruction, to determine the location in program memory, instruction pipelining.
